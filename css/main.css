@@ -49,6 +49,11 @@ body {
   height: 80%;
   object-fit: cover;
   padding: 20px 20px;
+  cursor: pointer;
+}
+
+.cards img:hover {
+  transform: scale(1.1);
 }
 
 .cards img.square-sm {
@@ -359,7 +364,7 @@ body {
 .categorias {
   height: 250px;
   width: 100%;
-  background-color: #FABD00;
+  background-image: linear-gradient(to right, #FECB46 , white);
   background-repeat: no-repeat; 
   background-attachment: fixed;
   background-position: center;
@@ -377,7 +382,8 @@ body {
 }
 
 .contactoBG {
-  background-color: #FECB46; }
+  background-color: #FECB46; 
+}
 
 .contactTitle {
   padding-top: 70px;
@@ -417,5 +423,12 @@ body {
     }
   }
   
+.card img {
+      cursor: pointer;
+    }
+
+.card img:hover {
+  transform: scale(1.1);
+}   
 
 
