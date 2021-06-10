@@ -14,7 +14,7 @@ header {
 
 .banner {
   height: 700px; 
-  background-image: url('../img/local.png'); 
+  background-image: url('../img/local-min.JPEG'); 
   background-repeat: no-repeat; 
   background-attachment: fixed;
   background-position: center;
@@ -374,7 +374,7 @@ body {
 #deco {
   height: 500px;
   width: 100%;
-  background-image: url('../img/woodendot-sAtN5q4cJlM-unsplash\ \(1\).jpg');
+  background-image: url('../img/woodendot-sAtN5q4cJlM-unsplash\ \(1\)-min.jpg.jpg');
   background-repeat: no-repeat; 
   background-attachment: fixed;
   background-position: center;
