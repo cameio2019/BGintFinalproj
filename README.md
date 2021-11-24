@@ -5,7 +5,7 @@ Proyecto realizado en el curso de Desarrollo Web de Coderhouse.
 ## Demo
 Ver [Demo](https://bginteriorezearevalo.netlify.app/)!
 
-![pbg](./captura.png)
+![pbg](./bgdemo.png)
 
 
 ## Tecnologías
